@@ -8,7 +8,7 @@ namespace HelloClass
         {
             Console.WriteLine("Hello Mr. Lesieur!");
             Console.WriteLine("Hello Michael!");
-            Console.WriteLine("test");
+            Console.WriteLine("test2");
         }
     }
 }
